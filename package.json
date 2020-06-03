@@ -1,0 +1,25 @@
+{
+    "name": "Juego Pregunta2",
+    "version": "1.0.0",
+    "description": "Preguntas tipo test de cultura general.",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "preguntados",
+      "test",
+      "preguntas",
+      "cultura",
+      "concurso",
+      "trivial",
+      "diversion",
+      "juego"
+    ],
+    "author": "Emilio M",
+    "license": "MIT",
+    "dependencies": {
+      "ask-sdk": "^2.0.0"
+    }
+  }
+  
